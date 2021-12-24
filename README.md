@@ -16,4 +16,4 @@
 - Vote for Proposals!
 
 ## Deployed Dapp:
-Link: ()
+Link: (https://dao-using-thirdweb-buildspace5-mennat1.vercel.app/)
